@@ -6,8 +6,16 @@ export default defineConfig({
   description: "The ancient science of breath, mapped as one connected system",
   base: '/', // Change to '/Shiv-Swaroday/' for GitHub Pages deployment
   
+  sitemap: {
+    hostname: 'https://shiv-swarodaya.web.app'
+  },
+
   head: [
-    ['link', { rel: 'icon', href: '/mythological.png' }]
+    ['link', { rel: 'icon', href: '/mythological.png' }],
+    ['meta', { name: 'description', content: 'A navigable concept map of the 396-verse Sanskrit scripture on breath science' }],
+    ['meta', { property: 'og:title', content: 'Shiv Swarodaya Concept Map' }],
+    ['meta', { property: 'og:description', content: 'The ancient science of breath, mapped as one connected system' }],
+    ['meta', { name: 'keywords', content: 'Shiv Swarodaya, Shiv Svarodaya, swara vigyan, swara, swar, svara, breath science, yoga, pranayama, tattvas, nadis, Ida, Pingala, Sushumna, pranic flow' }]
   ],
 
   themeConfig: {
