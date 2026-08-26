@@ -214,7 +214,3 @@ These are phenomenological categories known through **felt character of breath**
 - **Category clarity** — distinguishing tattvas as breath-qualities from modern chemical elements
 
 Understanding the architecture shows how the system's parts connect; understanding the notable characteristics shows what the text explains and what it leaves unexplained.
-
----
-
-⏮ [Prev: Yoga Path](11-mukti-yoga.md)  ·  ↩ [Overview](00-overview.md)  ·  📖 [Glossary](glossary.md)

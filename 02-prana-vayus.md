@@ -107,7 +107,3 @@ Prana is what makes the tattvas observable. Where [Tattvas](01-tattvas.md) are c
 The ten vayus show up everywhere in the predictive system: disease prognosis depends on irregular vayu flow `§316-326` ([Disease](08-bhukti-disease-prognosis.md)), death signs include the failure of specific vayus `§327-374` ([Death](09-bhukti-lifespan-prognosis.md)), and the entire yoga path is the deliberate redirection of prana from outward (life-sustaining) to inward (liberation-seeking) flow. When you read about pranayama in [Yoga path](11-mukti-yoga.md), you're reading about the conscious manipulation of what this page describes as natural function.
 
 This is the mechanism layer — the energy system that sits between cosmic elements and the observable interface of breath.
-
----
-
-⏮ [Prev: Tattvas](01-tattvas.md)  ·  ↩ [Overview](00-overview.md)  ·  📖 [Glossary](glossary.md)  ·  [Next: Nadis](03-nadis.md) ⏭

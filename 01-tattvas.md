@@ -129,7 +129,3 @@ This is the context for the often-quoted statement that **astrology without know
 ## Why the tattvas matter
 
 Everything that follows builds on this foundation. When you read [Bhukti Engine](05-bhukti-reading-the-world.md), every prediction about timing, direction, and outcome begins by identifying the active tattva. When you read [War](06-bhukti-combat.md), [Conception](07-bhukti-conception.md), or [Disease](08-bhukti-disease-prognosis.md), the tattva determines the result. When you read [Yoga](11-mukti-yoga.md), the dissolution of the tattvas into Sushumna is the path to liberation. This page is the alphabet; those pages are the sentences.
-
----
-
-⏮ [Prev: Overview](00-overview.md)  ·  ↩ [Overview](00-overview.md)  ·  📖 [Glossary](glossary.md)  ·  [Next: Prana & Vayus](02-prana-vayus.md) ⏭

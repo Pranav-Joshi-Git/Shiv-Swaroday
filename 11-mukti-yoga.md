@@ -198,7 +198,3 @@ Key elements:
 The incomplete-text statement `§395` indicates the 396 verses contain only "half-a-measure" of the full knowledge.
 
 This is the transformation layer — same breath-science elements redirected from prediction to transcendence.
-
----
-
-⏮ [Prev: Weather & Agriculture](10-bhukti-weather-agriculture.md)  ·  ↩ [Overview](00-overview.md)  ·  📖 [Glossary](glossary.md)  ·  [Next: Unifying View](12-unifying-view.md) ⏭

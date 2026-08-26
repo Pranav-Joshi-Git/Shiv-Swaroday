@@ -1,0 +1,29 @@
+{
+  "name": "shiv-swaroday",
+  "version": "1.0.0",
+  "description": "*The ancient science of breath, mapped as one connected system.*",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vitepress dev",
+    "docs:build": "vitepress build",
+    "docs:preview": "vitepress preview"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pranav-Joshi-Git/Shiv-Swaroday.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/Pranav-Joshi-Git/Shiv-Swaroday/issues"
+  },
+  "homepage": "https://github.com/Pranav-Joshi-Git/Shiv-Swaroday#readme",
+  "devDependencies": {
+    "mermaid": "^11.17.2",
+    "vitepress": "^1.6.4",
+    "vitepress-plugin-mermaid": "^2.0.17",
+    "vue": "^3.5.41"
+  }
+}

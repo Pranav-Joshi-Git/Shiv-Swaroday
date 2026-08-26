@@ -187,7 +187,3 @@ This domain presents **five independent diagnostic systems** using different obs
 The shadow system (system 5) describes both a diagnostic shadow-reading practice and an extended mantra-vision practice that can produce visions of Shiva. The final verses `§371-374` state that yoga, pilgrimage, charity, and virtuous conduct can escape death, and that knowledge of svara yoga removes fear of death.
 
 This domain is self-contained prognosis with embedded escape routes — diagnostic methods within the same section that also describes yogic interventions.
-
----
-
-⏮ [Prev: Disease Prognosis](08-bhukti-disease-prognosis.md)  ·  ↩ [Overview](00-overview.md)  ·  📖 [Glossary](glossary.md)  ·  [Next: Weather & Agriculture](10-bhukti-weather-agriculture.md) ⏭

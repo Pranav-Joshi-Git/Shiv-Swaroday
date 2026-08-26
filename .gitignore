@@ -1,0 +1,22 @@
+# Dependencies
+node_modules
+
+# VitePress build output
+.vitepress/dist
+.vitepress/cache
+
+# Firebase cache
+.firebase
+
+# Logs
+*.log
+npm-debug.log*
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/*
+!.vscode/settings.json
+.idea

@@ -52,7 +52,3 @@ The same reading of the breath is used two ways — this split organizes the ent
 ---
 
 *A note on spirit:* Swarodaya belongs to a traditional worldview. This map preserves its claims faithfully — tagging them as claims — without endorsing them as science. The aim is to make a dense, sprawling text **navigable**, not to prove or disprove it.
-
----
-
-↩ [Overview](00-overview.md)  ·  📖 [Glossary](glossary.md)  ·  [Next: Overview](00-overview.md) ⏭

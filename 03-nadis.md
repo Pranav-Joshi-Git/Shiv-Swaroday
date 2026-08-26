@@ -81,7 +81,3 @@ Nadis are the infrastructure that connects [Prana](02-prana-vayus.md) to [Svara]
 Every prediction rule in [Bhukti Engine](05-bhukti-reading-the-world.md) assumes you know whether Ida or Pingala is active. The direction rules in [War](06-bhukti-combat.md) depend on nadi-direction correspondence. The entire [Yoga path](11-mukti-yoga.md) is the practice of shifting prana from Ida/Pingala (duality, embodiment, worldly life) into Sushumna (unity, transcendence, liberation).
 
 This is the routing layer — the channel network that carries prana from its source to the observable interface of breath.
-
----
-
-⏮ [Prev: Prana & Vayus](02-prana-vayus.md)  ·  ↩ [Overview](00-overview.md)  ·  📖 [Glossary](glossary.md)  ·  [Next: Svara](04-svara.md) ⏭

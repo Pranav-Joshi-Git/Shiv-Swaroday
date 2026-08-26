@@ -100,7 +100,3 @@ The text presents breath-state at cosmic transition points as reflecting and pre
 The Sushumna warning `§305` states that performing worldly activities during Sushumna flow causes collective afflictions (destruction of country, epidemics, sorrows). This connects individual breath-state during activities to communal consequences.
 
 This is the collective forecasting layer — individual breath at cosmic moments as predictor of communal conditions.
-
----
-
-⏮ [Prev: Lifespan Prognosis](09-bhukti-lifespan-prognosis.md)  ·  ↩ [Overview](00-overview.md)  ·  📖 [Glossary](glossary.md)  ·  [Next: Yoga Path](11-mukti-yoga.md) ⏭

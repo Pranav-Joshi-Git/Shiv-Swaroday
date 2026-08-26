@@ -74,7 +74,3 @@ Every prediction method in the bhukti chapters depends on observing the svara at
 The yoga path works in reverse — instead of passively observing which svara flows, the practitioner learns to **control** the svara through pranayama, deliberately shifting prana from Ida/Pingala into Sushumna. What begins as observation becomes intervention.
 
 This is the observable interface — the single point where the entire system becomes readable and, eventually, controllable.
-
----
-
-⏮ [Prev: Nadis](03-nadis.md)  ·  ↩ [Overview](00-overview.md)  ·  📖 [Glossary](glossary.md)  ·  [Next: Reading the World](05-bhukti-reading-the-world.md) ⏭

@@ -108,7 +108,3 @@ The irregular-flow rules provide a complementary framework: your own sustained b
 This domain also demonstrates the text's **layered causation model**: karmic (Earth), humoral (Water), and spiritual-environmental (Fire). The text doesn't choose between these frameworks — it presents all three as valid depending on which tattva is active when the question arises. Causation itself is determined by the moment of inquiry, not by the disease's physical etiology.
 
 This is a divinatory domain — prognosis through relational observation rather than direct examination or intervention.
-
----
-
-⏮ [Prev: Conception](07-bhukti-conception.md)  ·  ↩ [Overview](00-overview.md)  ·  📖 [Glossary](glossary.md)  ·  [Next: Lifespan Prognosis](09-bhukti-lifespan-prognosis.md) ⏭

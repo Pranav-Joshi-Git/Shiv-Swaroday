@@ -131,7 +131,3 @@ The **internal contradictions** between prashna and conception rules are signifi
 This domain also reveals the text's treatment of **relational phenomena** through the same variables used elsewhere: svara, tattva, timing, Poorna/Shoonya, odd/even patterns. The prediction engine remains constant; the domain is interpersonal rather than individual or collective. The framework emphasizes that **both partners' breath-states contribute to outcomes**, not just timing or physical mechanics alone.
 
 This is the system applied to creation — two polarities intersecting to generate a third entity whose characteristics are said to be determined by the exact breath-state configuration at the moment of conception.
-
----
-
-⏮ [Prev: Combat](06-bhukti-combat.md)  ·  ↩ [Overview](00-overview.md)  ·  📖 [Glossary](glossary.md)  ·  [Next: Disease Prognosis](08-bhukti-disease-prognosis.md) ⏭

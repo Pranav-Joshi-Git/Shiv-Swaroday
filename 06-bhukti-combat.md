@@ -121,7 +121,3 @@ War shows the transition from **prediction** (reading what will happen) to **int
 The same techniques used here for tactical advantage — switching svaras, holding breath, aligning with direction — are the foundation for the yogic practices in [Yoga path](11-mukti-yoga.md), where the objective shifts from winning confrontations to transcending the confrontational mode of existence entirely.
 
 This is the system at full power — all variables active, all techniques engaged, all outcomes determined by mastery of breath.
-
----
-
-⏮ [Prev: Reading the World](05-bhukti-reading-the-world.md)  ·  ↩ [Overview](00-overview.md)  ·  📖 [Glossary](glossary.md)  ·  [Next: Conception](07-bhukti-conception.md) ⏭

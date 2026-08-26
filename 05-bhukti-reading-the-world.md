@@ -101,7 +101,3 @@ The bhukti engine shows that the text is not just cataloging mystical concepts �
 The contrast with the mukti path ([Yoga path](11-mukti-yoga.md)) is stark: bhukti uses the system to *predict and navigate* the world; mukti uses the system to *transcend* the world. Same variables, opposite objectives. But you cannot practice mukti without understanding bhukti — you must first learn to observe the flow before you can learn to reverse it.
 
 This is the application layer — where observation becomes prediction, and prediction guides action.
-
----
-
-⏮ [Prev: Svara](04-svara.md)  ·  ↩ [Overview](00-overview.md)  ·  📖 [Glossary](glossary.md)  ·  [Next: Combat](06-bhukti-combat.md) ⏭
