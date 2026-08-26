@@ -64,6 +64,7 @@ flowchart TD
 4. [Svara & Poorna/Shoonya](04-svara.md)
 
 **Bhukti — reading the world (prediction)**
+
 5. [Reading the World](05-bhukti-reading-the-world.md)
 6. [War & Combat](06-bhukti-combat.md)
 7. [Conception & enchantment](07-bhukti-conception.md)
