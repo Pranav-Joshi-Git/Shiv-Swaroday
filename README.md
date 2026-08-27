@@ -21,7 +21,7 @@ The same reading of the breath is used two ways — this split organizes the ent
 
 ## How to read this map
 
-1. **Start at the [Overview](00-overview.md)** — a single hub diagram of the whole system.
+1. **Start at the [Overview](overview.md)** — a single hub diagram of the whole system.
 2. Click through to any topic. Each page is a **diagram + tables**, kept small enough to take in at once.
 3. Look for two markers:
    - **`[claim]`** — a *traditional scriptural assertion*, recorded to stay faithful to the text, **not** an empirically established fact.
@@ -30,24 +30,24 @@ The same reading of the breath is used two ways — this split organizes the ent
 ## Contents
 
 **The spine**
-1. [Tattvas — the five elements](01-tattvas.md)
-2. [Prana & Vayus](02-prana-vayus.md)
-3. [Nadis — Ida / Sushumna / Pingala](03-nadis.md)
-4. [Svara & Poorna/Shoonya](04-svara.md)
+1. [Tattvas — the five elements](tattvas.md)
+2. [Prana & Vayus](prana-vayus.md)
+3. [Nadis — Ida / Sushumna / Pingala](nadis.md)
+4. [Svara & Poorna/Shoonya](svara.md)
 
 **Bhukti — reading the world**
-5. [Reading the World](05-bhukti-reading-the-world.md)
-6. [War & Combat](06-bhukti-combat.md)
-7. [Conception & enchantment](07-bhukti-conception.md)
-8. [Disease Prognosis](08-bhukti-disease-prognosis.md)
-9. [Death Signs & Prognosis](09-bhukti-lifespan-prognosis.md)
-10. [Weather & Agriculture](10-bhukti-weather-agriculture.md)
+5. [Reading the World](bhukti-reading-the-world.md)
+6. [War & Combat](bhukti-combat.md)
+7. [Conception & enchantment](bhukti-conception.md)
+8. [Disease Prognosis](bhukti-disease-prognosis.md)
+9. [Death Signs & Prognosis](bhukti-lifespan-prognosis.md)
+10. [Weather & Agriculture](bhukti-weather-agriculture.md)
 
 **Mukti — transforming the self**
-11. [The yoga path](11-mukti-yoga.md)
+11. [The yoga path](mukti-yoga.md)
 
 **Unifying**
-12. [Unifying View](12-unifying-view.md)
+12. [Unifying View](unifying-view.md)
 
 ---
 

@@ -23,7 +23,7 @@ export default defineConfig({
     logo: '/mythological.png',
     
     nav: [
-      { text: '📝 Overview', link: '/00-overview' },
+      { text: '📝 Overview', link: '/overview' },
       { text: '📖 Glossary', link: '/glossary' }
     ],
 
@@ -31,43 +31,43 @@ export default defineConfig({
       {
         text: 'Hub',
         items: [
-          { text: '📝 Overview', link: '/00-overview' }
+          { text: '📝 Overview', link: '/overview' }
         ]
       },
       {
         text: 'Spine — Foundation',
         collapsed: false,
         items: [
-          { text: '01 · Tattvas', link: '/01-tattvas' },
-          { text: '02 · Prana & Vayus', link: '/02-prana-vayus' },
-          { text: '03 · Nadis', link: '/03-nadis' },
-          { text: '04 · Svara', link: '/04-svara' }
+          { text: '01 · Tattvas', link: '/tattvas' },
+          { text: '02 · Prana & Vayus', link: '/prana-vayus' },
+          { text: '03 · Nadis', link: '/nadis' },
+          { text: '04 · Svara', link: '/svara' }
         ]
       },
       {
         text: 'Bhukti — Reading the World',
         collapsed: false,
         items: [
-          { text: '05 · Prediction Engine', link: '/05-bhukti-reading-the-world' },
-          { text: '06 · Combat', link: '/06-bhukti-combat' },
-          { text: '07 · Conception', link: '/07-bhukti-conception' },
-          { text: '08 · Disease Prognosis', link: '/08-bhukti-disease-prognosis' },
-          { text: '09 · Lifespan Prognosis', link: '/09-bhukti-lifespan-prognosis' },
-          { text: '10 · Weather & Agriculture', link: '/10-bhukti-weather-agriculture' }
+          { text: '05 · Prediction Engine', link: '/bhukti-reading-the-world' },
+          { text: '06 · Combat', link: '/bhukti-combat' },
+          { text: '07 · Conception', link: '/bhukti-conception' },
+          { text: '08 · Disease Prognosis', link: '/bhukti-disease-prognosis' },
+          { text: '09 · Lifespan Prognosis', link: '/bhukti-lifespan-prognosis' },
+          { text: '10 · Weather & Agriculture', link: '/bhukti-weather-agriculture' }
         ]
       },
       {
         text: 'Mukti — Transforming the Self',
         collapsed: false,
         items: [
-          { text: '11 · Yoga Path', link: '/11-mukti-yoga' }
+          { text: '11 · Yoga Path', link: '/mukti-yoga' }
         ]
       },
       {
         text: 'Synthesis',
         collapsed: false,
         items: [
-          { text: '12 · Unifying View', link: '/12-unifying-view' }
+          { text: '12 · Unifying View', link: '/unifying-view' }
         ]
       },
       {

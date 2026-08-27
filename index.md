@@ -1,54 +1,52 @@
 # Shiv Swarodaya
 
-*The ancient science of breath, mapped as one connected system.*
-
-**Shiv Swarodaya** is a Sanskrit scripture — a dialogue between Lord Shiva and Goddess Parvati, 396 verses — on the *science of breath* (**svara**). Its central claim is bold: the breath flowing moment to moment through the nostrils and subtle channels (**nadis**) mirrors the elements (**tattvas**) and the cosmos itself. Read that flow, and you can interpret the world; master it, and you can transform yourself.
-
-This project is **not a translation.** It is a navigable **concept map** — small diagrams and tables — that shows how those 396 verses fit together as a single architecture, so you can see the whole shape at a glance and then zoom into any branch.
-
-## The one idea underneath everything
-
-> **Cosmic ↕ Elemental ↕ Pranic ↕ Nadi ↕ Svara ↕ Observable state**
->
-> What happens in the cosmos is legible in the breath — and the breath, once mastered, changes one's relation to the cosmos.
-
-## One knowledge, two directions
-
-The same reading of the breath is used two ways — this split organizes the entire map:
-
-- **Bhukti — reading the world** (prediction): action, war, conception, disease, weather, and death.
-- **Mukti — transforming the self** (yoga): pranayama → Sushumna → samadhi → liberation.
-
-## How to read this map
-
-1. **Start at the [Overview](00-overview.md)** — a single hub diagram of the whole system.
-2. Click through to any topic. Each page is a **diagram + tables**, kept small enough to take in at once.
-3. Look for two markers:
-   - **`[claim]`** — a *traditional scriptural assertion*, recorded to stay faithful to the text, **not** an empirically established fact.
-   - **📖 Verses X–Y** — the source ślokas a page draws from.
-
-## Contents
-
-**The spine**
-1. [Tattvas — the five elements](01-tattvas.md)
-2. [Prana & Vayus](02-prana-vayus.md)
-3. [Nadis — Ida / Sushumna / Pingala](03-nadis.md)
-4. [Svara & Poorna/Shoonya](04-svara.md)
-
-**Bhukti — reading the world**
-5. [Reading the World](05-bhukti-reading-the-world.md)
-6. [War & Combat](06-bhukti-combat.md)
-7. [Conception & enchantment](07-bhukti-conception.md)
-8. [Disease Prognosis](08-bhukti-disease-prognosis.md)
-9. [Death Signs & Prognosis](09-bhukti-lifespan-prognosis.md)
-10. [Weather & Agriculture](10-bhukti-weather-agriculture.md)
-
-**Mukti — transforming the self**
-11. [The yoga path](11-mukti-yoga.md)
-
-**Unifying**
-12. [Unifying View](12-unifying-view.md)
+*A navigable concept map of the 396-verse Sanskrit scripture on breath science*
 
 ---
 
-*A note on spirit:* Swarodaya belongs to a traditional worldview. This map preserves its claims faithfully — tagging them as claims — without endorsing them as science. The aim is to make a dense, sprawling text **navigable**, not to prove or disprove it.
+**Shiv Swarodaya** is a dialogue between Lord Shiva and Goddess Parvati — 396 verses on **svara**, the science of breath. Its central premise: the breath flowing through your nostrils at any moment mirrors cosmic elements and can be read to interpret events, or mastered to transform consciousness.
+
+This site is **not a translation**. It's a **visual architecture** — diagrams, tables, and clear explanations — showing how all 396 verses connect as one system.
+
+---
+
+## Why this exists
+
+The original text is dense, repetitive, and sprawling. Concepts appear out of sequence. References loop back. This map untangles it: you can see the **whole structure at once**, then zoom into any branch.
+
+---
+
+## How to explore
+
+**If you want the big picture:**  
+→ Start at [**Overview**](/overview) — a single flowchart showing how everything connects
+
+**If you want foundations:**  
+→ Read the **Spine** pages in order: Tattvas → Prana → Nadis → Svara
+
+**If you want applications:**  
+→ Jump to **Bhukti** (prediction: combat, disease, weather) or **Mukti** (yoga path to liberation)
+
+**If you need definitions:**  
+→ Check the [**Glossary**](/glossary) for terms like *poorna*, *shoonya*, *paksha*
+
+---
+
+## One system, two directions
+
+The text teaches **one skill** — reading the active element in your breath — and applies it **two ways**:
+
+- **Bhukti** — prediction: when to act, which direction to travel, how to win battles, predict conception, diagnose disease, forecast weather
+- **Mukti** — transformation: pranayama techniques to awaken sushumna, dissolve the breath, and reach liberation
+
+Both paths use the same foundation. The spine pages explain that foundation. The branch pages explain each application.
+
+---
+
+## Navigation
+
+Use the **sidebar** to browse by topic, or click boxes in the [Overview diagram](/overview) to jump directly to any page.
+
+---
+
+**Ready?** → [Start at the Overview](/overview)

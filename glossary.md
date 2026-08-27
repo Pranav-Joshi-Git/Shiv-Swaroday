@@ -1,6 +1,6 @@
 # Glossary
 
-[↩ Back to overview](00-overview.md)
+[↩ Back to overview](overview.md)
 
 Alphabetical definitions of key terms from Shiv Swarodaya.
 
@@ -98,4 +98,4 @@ Alphabetical definitions of key terms from Shiv Swarodaya.
 
 ---
 
-↩ [Overview](00-overview.md)
+↩ [Overview](overview.md)
