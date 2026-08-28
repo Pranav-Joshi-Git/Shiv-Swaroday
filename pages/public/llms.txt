@@ -1,0 +1,33 @@
+# Shiv Swarodaya — A Concept Map of the Ancient Breath Science
+
+> Shiv Swarodaya is a 396-verse Sanskrit scripture on svara — the science of breath. This site is a navigable concept map showing how all 396 verses connect as one system. It is not a translation; it is a visual architecture of diagrams and tables for the ancient knowledge.
+
+## Overview
+
+- [Home](https://shiv-swarodaya.web.app/): Introduction and navigation guide
+- [Overview](https://shiv-swarodaya.web.app/overview): Hub diagram — the full system at a glance
+
+## Spine — Foundation
+
+- [Tattvas](https://shiv-swarodaya.web.app/tattvas): The five elements (earth, water, fire, air, ether)
+- [Prana & Vayus](https://shiv-swarodaya.web.app/prana-vayus): The five pranic forces
+- [Nadis](https://shiv-swarodaya.web.app/nadis): Ida, Pingala, and Sushumna — the subtle channels
+- [Svara](https://shiv-swarodaya.web.app/svara): The active breath and the poorna/shoonya cycle
+
+## Bhukti — Reading the World
+
+- [Prediction Engine](https://shiv-swarodaya.web.app/bhukti-reading-the-world): How the active element is read to interpret events
+- [Combat](https://shiv-swarodaya.web.app/bhukti-combat): Svara-based guidance for war and conflict
+- [Conception](https://shiv-swarodaya.web.app/bhukti-conception): Breath and conception timing
+- [Disease Prognosis](https://shiv-swarodaya.web.app/bhukti-disease-prognosis): Reading illness through breath
+- [Lifespan Prognosis](https://shiv-swarodaya.web.app/bhukti-lifespan-prognosis): Death signs and longevity
+- [Weather & Agriculture](https://shiv-swarodaya.web.app/bhukti-weather-agriculture): Forecasting through svara
+
+## Mukti — Transforming the Self
+
+- [Yoga Path](https://shiv-swarodaya.web.app/mukti-yoga): Pranayama, Sushumna awakening, and liberation
+
+## Synthesis
+
+- [Unifying View](https://shiv-swarodaya.web.app/unifying-view): How all branches connect to one root
+- [Glossary](https://shiv-swarodaya.web.app/glossary): Key Sanskrit terms explained

@@ -76,11 +76,11 @@ flowchart TD
 
 The text describes a **cascading emanation** from the formless supreme reality down to observable breath:
 
-1. **Paramatma** — unchanging, formless source (§4-5)
-2. **Tattvas** — five elements: space → air → fire → water → earth (§6-8)
-3. **Prana & Vayus** — ten life-energies moving through the body (§43-48)
-4. **Nadis** — 72,000 channels; three primary: Ida (moon/left), Pingala (sun/right), Sushumna (center) (§32-42)
-5. **Svara** — the observable breath in nostrils, showing which element/nadi is active (§72, 155)
+1. **Paramatma** — unchanging, formless source (`§4-5`)
+2. **Tattvas** — five elements: space → air → fire → water → earth (`§6-8`)
+3. **Prana & Vayus** — ten life-energies moving through the body (`§43-48`)
+4. **Nadis** — 72,000 channels; three primary: Ida (moon/left), Pingala (sun/right), Sushumna (center) (`§32-42`)
+5. **Svara** — the observable breath in nostrils, showing which element/nadi is active (`§72, 155`)
 
 Each layer is a **refinement of the previous**. Cosmic elements → bodily energies → channel networks → measurable breath flow.
 

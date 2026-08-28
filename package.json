@@ -22,8 +22,12 @@
   "homepage": "https://github.com/Pranav-Joshi-Git/Shiv-Swaroday#readme",
   "devDependencies": {
     "mermaid": "^11.17.2",
+    "sharp": "^0.35.4",
     "vitepress": "^1.6.4",
     "vitepress-plugin-mermaid": "^2.0.17",
     "vue": "^3.5.41"
+  },
+  "dependencies": {
+    "@fontsource/raleway": "^5.3.0"
   }
 }

@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://shiv-swarodaya.web.app/sitemap.xml

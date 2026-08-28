@@ -1,3 +1,99 @@
+
+/* Neelkanth Teal — Shiva's blue-throat color */
+:root {
+  --vp-c-brand-1: #0a6e65;
+  --vp-c-brand-2: #085c55;
+  --vp-c-brand-3: #0d9488;
+  --vp-c-brand-soft: rgba(10, 110, 101, 0.14);
+
+  /* Warm parchment */
+  --vp-c-bg: #faf7f2;
+  --vp-c-bg-soft: #f3ede5;
+  --vp-c-bg-mute: #ede6da;
+  --vp-c-bg-elv: #faf7f2;
+  --vp-sidebar-bg-color: #f3ede5;
+  --vp-nav-bg-color: #faf7f2;
+}
+
+.dark {
+  --vp-c-brand-1: #14b8a6;
+  --vp-c-brand-2: #0d9488;
+  --vp-c-brand-3: #0f766e;
+  --vp-c-brand-soft: rgba(20, 184, 166, 0.16);
+
+  /* Deep night sky */
+  --vp-c-bg: #0d1117;
+  --vp-c-bg-soft: #161b22;
+  --vp-c-bg-mute: #1c2128;
+  --vp-c-bg-elv: #161b22;
+  --vp-sidebar-bg-color: #161b22;
+  --vp-nav-bg-color: #0d1117;
+}
+
+/* Sticky navbar on mobile */
+@media (max-width: 959px) {
+  .VPNav {
+    position: sticky !important;
+    top: 0;
+    z-index: 100;
+  }
+}
+
+/* Search bar */
+.DocSearch-Button {
+  min-width: 220px !important;
+  background-color: #ede6da !important;
+  border-color: #b8a990 !important;
+  display: flex !important;
+  align-items: center !important;
+  justify-content: space-between !important;
+}
+
+.DocSearch-Button-Keys {
+  margin-left: auto !important;
+}
+
+@media (max-width: 768px) {
+  .DocSearch-Button {
+    min-width: unset !important;
+    width: 36px !important;
+    padding: 0 8px !important;
+    justify-content: center !important;
+  }
+
+  .DocSearch-Button-Placeholder,
+  .DocSearch-Button-Keys {
+    display: none !important;
+  }
+}
+
+.DocSearch-Button:hover {
+  border-color: var(--vp-c-brand-1) !important;
+  background-color: #e5ddd0 !important;
+}
+
+.dark .DocSearch-Button {
+  background-color: #1c2128 !important;
+  border-color: #30363d !important;
+}
+
+.dark .DocSearch-Button:hover {
+  border-color: var(--vp-c-brand-1) !important;
+  background-color: #252d38 !important;
+}
+
+/* Raleway for headings */
+.vp-doc h1,
+.vp-doc h2,
+.vp-doc h3,
+.vp-doc h4,
+.VPNavBarTitle .title,
+.VPSidebarItem.level-0 > .item > .text {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 600;
+  letter-spacing: 0.04em;
+}
+
 .sidebar-toggle-button {
   display: none;
 }

@@ -1,4 +1,8 @@
 import DefaultTheme from 'vitepress/theme'
+import '@fontsource/raleway/400.css'
+import '@fontsource/raleway/500.css'
+import '@fontsource/raleway/600.css'
+import '@fontsource/raleway/700.css'
 import { defineComponent, h, nextTick, onMounted, ref, watch } from 'vue'
 import { useRoute, useRouter } from 'vitepress'
 import mermaid from 'mermaid'

@@ -4,6 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   title: "Shiv Swarodaya",
   description: "The ancient science of breath, mapped as one connected system",
+  srcDir: 'pages',
   base: '/', // Change to '/Shiv-Swaroday/' for GitHub Pages deployment
   
   sitemap: {
@@ -11,7 +12,8 @@ export default defineConfig({
   },
 
   head: [
-    ['link', { rel: 'icon', href: '/mythological.png' }],
+    ['link', { rel: 'icon', href: '/favicon.png' }],
+    ['meta', { name: 'google-site-verification', content: 'ISyhWYghhy6zyrFJyjBVPM1Veb7BmVGnstTrr2_IQQI' }],
     ['meta', { name: 'description', content: 'A navigable concept map of the 396-verse Sanskrit scripture on breath science' }],
     ['meta', { property: 'og:title', content: 'Shiv Swarodaya Concept Map' }],
     ['meta', { property: 'og:description', content: 'The ancient science of breath, mapped as one connected system' }],
@@ -20,7 +22,7 @@ export default defineConfig({
 
   themeConfig: {
     // https://vitepress.dev/reference/default-theme-config
-    logo: '/mythological.png',
+    logo: '/mythological.webp',
     
     nav: [
       { text: '📝 Overview', link: '/overview' },
@@ -78,9 +80,7 @@ export default defineConfig({
       }
     ],
 
-    socialLinks: [
-      { icon: 'github', link: 'https://github.com/Pranav-Joshi-Git/Shiv-Swaroday' }
-    ],
+    socialLinks: [],
 
     search: {
       provider: 'local'
