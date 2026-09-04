@@ -1,3 +1,7 @@
+---
+title: System Architecture — Complete Overview
+---
+
 # Swarodaya Shastra — System Architecture
 
 This page shows the **complete 396-verse system as one layered architecture**. Each box links to a detailed page. Nothing is hidden — the detail lives in those linked pages.

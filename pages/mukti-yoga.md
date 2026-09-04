@@ -1,3 +1,7 @@
+---
+title: The Yoga Path — Mukti Through Svara
+---
+
 # The Yoga Path (Mukti)
 
 [↩ Back to overview](overview.md)

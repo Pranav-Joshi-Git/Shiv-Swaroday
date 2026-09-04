@@ -1,3 +1,7 @@
+---
+title: Weather & Agriculture — Svara as Nature's Oracle
+---
+
 # Weather & Agriculture
 
 [↩ Back to overview](overview.md)

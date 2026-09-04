@@ -1,3 +1,7 @@
+---
+title: Reading the World Through Svara
+---
+
 # Reading the World
 
 [↩ Back to overview](overview.md)

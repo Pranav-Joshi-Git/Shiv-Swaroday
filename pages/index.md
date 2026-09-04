@@ -1,3 +1,8 @@
+---
+title: Shiv Swarodaya — Master Life & Beyond
+titleTemplate: ':title'
+---
+
 # Shiv Swarodaya
 
 *A navigable concept map of the 396-verse Sanskrit scripture on breath science*

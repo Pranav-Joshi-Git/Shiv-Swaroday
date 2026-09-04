@@ -1,3 +1,7 @@
+---
+title: War & Combat — Svara in Battle
+---
+
 # War & Combat
 
 [↩ Back to overview](overview.md)

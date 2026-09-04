@@ -1,3 +1,7 @@
+---
+title: Glossary of Svara & Swarodaya Terms
+---
+
 # Glossary
 
 [↩ Back to overview](overview.md)

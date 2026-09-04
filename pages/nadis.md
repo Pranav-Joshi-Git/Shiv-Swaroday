@@ -1,3 +1,7 @@
+---
+title: Nadis — Ida, Pingala & Sushumna
+---
+
 # Nadis — Ida / Sushumna / Pingala
 
 [↩ Back to overview](overview.md)

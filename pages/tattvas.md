@@ -1,3 +1,7 @@
+---
+title: Tattvas — The Five Elements
+---
+
 # Tattvas — the five elements
 
 [↩ Back to overview](overview.md)

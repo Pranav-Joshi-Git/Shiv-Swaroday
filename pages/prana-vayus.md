@@ -1,3 +1,7 @@
+---
+title: Prana & Vayus — Life Force & Its Five Winds
+---
+
 # Prana & Vayus
 
 [↩ Back to overview](overview.md)

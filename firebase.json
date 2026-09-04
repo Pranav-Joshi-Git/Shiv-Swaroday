@@ -22,7 +22,7 @@
     ],
     "rewrites": [
       {
-        "source": "**",
+        "source": "!(sitemap.xml|robots.txt|llms.txt)",
         "destination": "/index.html"
       }
     ]

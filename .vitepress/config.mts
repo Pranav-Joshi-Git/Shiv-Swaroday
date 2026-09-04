@@ -3,21 +3,34 @@ import { defineConfig } from 'vitepress'
 // https://vitepress.dev/reference/site-config
 export default defineConfig({
   title: "Shiv Swarodaya",
-  description: "The ancient science of breath, mapped as one connected system",
+  titleTemplate: ':title | Shiv Swarodaya',
+  description: "Master life and beyond by understanding Svara — the ancient breath intelligence system of 396 Sanskrit verses",
   srcDir: 'pages',
   base: '/', // Change to '/Shiv-Swaroday/' for GitHub Pages deployment
   
   sitemap: {
-    hostname: 'https://shiv-swarodaya.web.app'
+    hostname: 'https://shiv-swarodaya.web.app',
+    lastmodDateOnly: false,
+    transformItems(items) {
+      return items.map(item => ({ ...item, lastmod: new Date().toISOString().split('T')[0] }))
+    }
   },
 
   head: [
     ['link', { rel: 'icon', href: '/favicon.png' }],
     ['meta', { name: 'google-site-verification', content: 'ISyhWYghhy6zyrFJyjBVPM1Veb7BmVGnstTrr2_IQQI' }],
-    ['meta', { name: 'description', content: 'A navigable concept map of the 396-verse Sanskrit scripture on breath science' }],
-    ['meta', { property: 'og:title', content: 'Shiv Swarodaya Concept Map' }],
-    ['meta', { property: 'og:description', content: 'The ancient science of breath, mapped as one connected system' }],
-    ['meta', { name: 'keywords', content: 'Shiv Swarodaya, Shiv Svarodaya, swara vigyan, swara, swar, svara, breath science, yoga, pranayama, tattvas, nadis, Ida, Pingala, Sushumna, pranic flow' }]
+    ['meta', { name: 'description', content: 'Master life and beyond by understanding Svara — the ancient breath intelligence system of 396 Sanskrit verses' }],
+    ['meta', { property: 'og:title', content: 'Shiv Swarodaya — Master Life & Beyond' }],
+    ['meta', { property: 'og:description', content: 'Navigate 396 verses of ancient breath science as a living concept map. Learn how svara, tattvas, nadis, and prana form one unified system.' }],
+    ['meta', { name: 'keywords', content: 'Shiv Swarodaya, Shiv Svarodaya, swara vigyan, swara, swar, svara, breath science, yoga, pranayama, tattvas, nadis, Ida, Pingala, Sushumna, pranic flow' }],
+    ['script', { type: 'application/ld+json' }, JSON.stringify({
+      '@context': 'https://schema.org',
+      '@type': 'WebSite',
+      name: 'Shiv Swarodaya',
+      alternateName: 'Shiv Svarodaya',
+      url: 'https://shiv-swarodaya.web.app',
+      description: 'Master life and beyond by understanding Svara — the ancient breath intelligence system of 396 Sanskrit verses'
+    })]
   ],
 
   themeConfig: {

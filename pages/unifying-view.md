@@ -1,3 +1,7 @@
+---
+title: Unifying View — How It All Connects
+---
+
 # Unifying View
 
 [↩ Back to overview](overview.md)

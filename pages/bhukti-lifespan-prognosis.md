@@ -1,3 +1,7 @@
+---
+title: Death Signs & Lifespan Prognosis
+---
+
 # Death Signs & Prognosis
 
 [↩ Back to overview](overview.md)
